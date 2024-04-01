@@ -1,0 +1,37 @@
+{
+        "bucketName": {
+        "ui:autofocus": true
+    },
+    "prefix": {
+        "ui:emptyValue": ""
+    },
+    "pollingInterval": {
+        "ui:widget": "select",
+        "ui:title": "Polling Interval"
+    },
+    "schedule": {
+        "ui:widget": "select",
+        "ui:title": "Schedule"
+    },
+    "credentials": {
+        "ui:widget": "select",
+        "ui:title": "Credentials"
+    },
+    "accessKey": {
+        "ui:widget": "password"
+    },
+    "secretKey": {
+        "ui:widget": "password"
+    },
+    "date": {
+        "ui:widget": "alt-datetime"
+    },
+    "telephone": {
+        "ui:options": {
+            "inputType": "tel"
+        }
+    },
+    "cloudService":{
+        "ui:description": "none"
+    }
+}

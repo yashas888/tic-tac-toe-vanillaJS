@@ -1,0 +1,22 @@
+{
+    "pollingInterval": {
+        "ui:widget": "select",
+        "ui:title": "Polling Interval"
+    },
+    "schedule": {
+        "ui:widget": "select",
+        "ui:title": "Schedule"
+    },
+    "host":{
+
+    },
+    "port":{
+
+    },
+    "databaseName":{
+
+    },
+    "tableName":{
+        
+    }
+}
